@@ -101,6 +101,7 @@ a:hover, a:active { text-decoration: none; }
 
 .sign-log-content a:hover {
   background-color: #f1f1f1;
+  color: #5d6d7e;
 }
 /*-----------------------------------------------------------------------------*/
 .box{
