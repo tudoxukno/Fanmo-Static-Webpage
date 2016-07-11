@@ -8,6 +8,15 @@ h1 {
   font-size: 60px;
 }
 
+@font-face { font-family: Roboto;
+  src: url('ROBOTO-THIN.TTF'); }
+h2 {
+  font-family: Roboto;
+  color: white;
+  font-size: 10px;
+}
+
+
 body{
   background: #343d46;
 }
