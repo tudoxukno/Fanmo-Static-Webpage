@@ -87,17 +87,23 @@ a:hover, a:active { text-decoration: none; }
   padding: 16px;
 }
 
-button.pure-button {
+.pure-button {
   background-color: #343d46;
+  color: #5d6d7e;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  /*background-color: #343d46;
   color: #5d6d7e;
   position: absolute;
   top: 0;
   right: 0;
-  padding: 16px;
+  padding: 16px;*/
   /*background-color: #343d46;*/
   /*color: #5d6d7e;*/
   /*padding: 16px;*/
-  font-size: 16px;
+  /*font-size: 16px;*/
   border: none;
 }
 /*-----------------------------------------------------------------------------*/
