@@ -39,7 +39,7 @@ a:focus { text-decoration: none; }
 a:hover, a:active { text-decoration: none; }
 /*-----------------------------------------------------------------------------*/
 .dropbtn {
-    background-color: #354454;
+    background-color: #2b303b;
     color: #5D6D7E;
     padding: 16px;
     font-size: 16px;
@@ -66,7 +66,7 @@ a:hover, a:active { text-decoration: none; }
     display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: #ABB2B9}
 
 .dropdown:hover .dropdown-content {
     display: block;
