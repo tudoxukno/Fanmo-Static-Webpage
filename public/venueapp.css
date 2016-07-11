@@ -12,6 +12,17 @@ body{
   background: #343d46;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+
+li a {
+    display: block;
+}
+
 .box{
   margin: 100px auto;
   width: 300px;
