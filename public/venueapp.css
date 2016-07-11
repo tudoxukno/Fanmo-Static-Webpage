@@ -91,19 +91,10 @@ a:hover, a:active { text-decoration: none; }
   background-color: #343d46;
   color: #5d6d7e;
   padding: 16px;
-  font-size: 16px;
+  font-size: 10px;
   border: none;
   cursor: pointer;
-  /*background-color: #343d46;
-  color: #5d6d7e;
-  position: absolute;
-  top: 0;
-  right: 0;
-  padding: 16px;*/
-  /*background-color: #343d46;*/
-  /*color: #5d6d7e;*/
-  /*padding: 16px;*/
-  /*font-size: 16px;*/
+  text-align: center;
   border: none;
 }
 /*-----------------------------------------------------------------------------*/
