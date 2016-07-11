@@ -87,7 +87,7 @@ a:hover, a:active { text-decoration: none; }
   padding: 16px;
 }
 
-.signbtn {
+button.pure-button {
   background-color: #343d46;
   color: #5d6d7e;
   position: absolute;
