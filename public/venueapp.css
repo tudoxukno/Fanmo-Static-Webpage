@@ -90,8 +90,8 @@ a:hover, a:active { text-decoration: none; }
 .pure-button {
   background-color: #343d46;
   color: #5d6d7e;
-  padding: 16px;
-  font-size: 12px;
+  padding: 10px;
+  font-size: 14px;
   border: none;
   cursor: pointer;
   text-align: center;
