@@ -76,6 +76,17 @@ a:hover, a:active { text-decoration: none; }
     background-color: #ABB2B9;
 }
 /*-----------------------------------------------------------------------------*/
+
+.button {
+  background-color: #343d46;
+  color: #5d6d7e;
+  position: fixed;
+  z-index: 10;
+  top: -5px;
+  right: 150px;
+  display: inline-block;
+}
+
 .box{
   margin: 100px auto;
   width: 300px;
