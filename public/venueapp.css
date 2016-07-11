@@ -12,7 +12,7 @@ body{
   width: 300px;
   vertical-align: middle;
   white-space: nowrap;
-  position: relative;
+  position: center;
 }
 
 .container-1 input#search{
@@ -27,7 +27,7 @@ body{
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
-  
+
   -webkit-transition: background .55s ease;
 -moz-transition: background .55s ease;
 -ms-transition: background .55s ease;
