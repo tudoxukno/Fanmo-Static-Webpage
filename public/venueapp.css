@@ -6,7 +6,15 @@ body{
   margin: 100px auto;
   width: 300px;
   height: 50px;
-  padding: 2em 10em 2em 10em;
+
+}
+
+div.centered {
+  position: fixed;
+ top: 50%;
+ left: 50%;
+ /* bring your own prefixes */
+ transform: translate(-50%, -50%);
 }
 
 .container-1{
