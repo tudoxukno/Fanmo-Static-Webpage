@@ -66,14 +66,14 @@ a:hover, a:active { text-decoration: none; }
     display: block;
 }
 
-.dropdown-content a:hover {background-color: #ABB2B9}
+.dropdown-content a:hover {background-color: #f1f1f1}
 
 .dropdown:hover .dropdown-content {
     display: block;
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #3e8e41;
+    background-color: #ABB2B9;
 }
 
 .box{
