@@ -86,6 +86,14 @@ a:hover, a:active { text-decoration: none; }
   padding: 16px;
 }
 
+.signlogbtn {
+  background-color: #343d46;
+  color: #5d6d7e;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+/*-----------------------------------------------------------------------------*/
 .box{
   margin: 100px auto;
   width: 300px;
