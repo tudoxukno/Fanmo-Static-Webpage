@@ -189,3 +189,7 @@ transition: background .55s ease;
   height: 70px;
   background-color: #ABB2B9;
 }
+
+i {
+  display: inline;
+}
