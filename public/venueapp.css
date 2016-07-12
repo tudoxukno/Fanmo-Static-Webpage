@@ -112,7 +112,7 @@ a:hover, a:active { text-decoration: none; }
 @import url(https://raw.github.com/FortAwesome/Font-Awesome/master/docs/assets/css/font-awesome.min.css);
 
 body {
-	background: #DDD;
+	background: #343d46;
 	font-size: 15px;
 }
 #wrap {
