@@ -48,7 +48,7 @@ a:hover, a:active { text-decoration: none; }
 /*-----------------------------------------------------------------------------*/
 .dropbtn {
     background-color: transparent;
-    color: #5d6d7e;
+    color: black;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -87,7 +87,7 @@ a:hover, a:active { text-decoration: none; }
 /*-----------------------------------------------------------------------------*/
 
 .sign-log {
-  background-color: #343d46;
+  background-color: transparent;
   color: #5d6d7e;
   position: absolute;
   top: -1%;
