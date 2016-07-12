@@ -1,12 +1,11 @@
 @font-face { font-family: Dolce Vita Heavy;
-src: url('DOLCE VITA HEAVY BOLD.TTF');
-}
+src: url('DOLCE VITA HEAVY BOLD.TTF'); }
 h1 {
   font-family: Dolce Vita Heavy;
   text-align: center;
   color: white;
   margin: 0;
-  font-size: 60px;
+  font-size: 75px;
 }
 
 @font-face { font-family: Roboto;
