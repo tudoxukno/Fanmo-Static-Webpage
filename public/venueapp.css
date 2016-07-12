@@ -21,7 +21,7 @@ h3 {
 }
 /*-----------------------------------------------------------------------------*/
 body{
-  background: #343d46;
+  background-image: url("http://www.orlandotomiamishuttle.com/wp-content/uploads/2015/03/3-13-14-Miami-Skyline-700x350.jpg"); 
 }
 
 ul {
@@ -179,5 +179,3 @@ transition: background .55s ease;
     outline:none;
     background: #ffffff;
   }
-
-  
