@@ -180,4 +180,12 @@ transition: background .55s ease;
     background: #ffffff;
   }
 
-  
+  .fixed-nav-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 70px;
+  background-color: #ABB2B9;
+}
