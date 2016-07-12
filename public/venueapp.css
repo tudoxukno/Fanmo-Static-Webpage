@@ -23,6 +23,10 @@ h3 {
 body{
   background-image: url("http://www.orlandotomiamishuttle.com/wp-content/uploads/2015/03/3-13-14-Miami-Skyline-700x350.jpg");
   background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 ul {
