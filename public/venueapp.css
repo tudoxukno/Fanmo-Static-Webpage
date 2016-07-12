@@ -103,13 +103,10 @@ a:hover, a:active { text-decoration: none; }
 }
 
 .sign-log-content a:hover {
-  background-color: #f1f1f1;
-
-}
-
-.sign-log:hover .pure-button {
   background-color: #343d46;
+
 }
+
 /*-----------------------------------------------------------------------------*/
 .box{
   margin: 100px auto;
