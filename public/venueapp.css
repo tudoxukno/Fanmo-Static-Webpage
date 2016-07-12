@@ -28,7 +28,7 @@ body{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  filter: brightness(50%);
+  background-blend-mode: screen;
 }
 
 ul {
