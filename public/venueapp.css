@@ -1,7 +1,7 @@
-@font-face { font-family: Dolce Vita Heavy;
-src: url('DOLCE VITA HEAVY BOLD.TTF'); }
+@font-face { font-family: Monohipster;
+src: url('MONOHIPSTER.OTF'); }
 h1 {
-  font-family: Dolce Vita Heavy;
+  font-family: Monohipster;
   text-align: center;
   color: white;
   margin: 0;
