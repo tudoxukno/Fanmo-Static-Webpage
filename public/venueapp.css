@@ -108,11 +108,15 @@ a:hover, a:active { text-decoration: none; }
 }
 
 /*-----------------------------------------------------------------------------*/
-.line{
+.box{
   margin: 100px auto;
   width: 300px;
   height: 50px;
 
+}
+
+form {
+  display: inline-block;
 }
 
 div.centered {
