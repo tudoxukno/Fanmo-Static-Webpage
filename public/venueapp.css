@@ -115,10 +115,6 @@ a:hover, a:active { text-decoration: none; }
 
 }
 
-form {
-  display: inline-block;
-}
-
 div.centered {
   position: fixed;
  top: 50%;
