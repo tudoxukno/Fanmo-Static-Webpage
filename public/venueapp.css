@@ -1,5 +1,6 @@
 @font-face { font-family: Dolce Vita Heavy;
-src: url('DOLCE VITA HEAVY BOLD.TTF'); }
+src: url('DOLCE VITA HEAVY BOLD.TTF');
+}
 h1 {
   font-family: Dolce Vita Heavy;
   text-align: center;
