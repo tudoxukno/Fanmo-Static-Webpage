@@ -47,7 +47,7 @@ a:focus { text-decoration: none; }
 a:hover, a:active { text-decoration: none; }
 /*-----------------------------------------------------------------------------*/
 .dropbtn {
-    background-color: #343d46;
+    background-color: transparent;
     color: #5d6d7e;
     padding: 16px;
     font-size: 16px;
@@ -96,7 +96,7 @@ a:hover, a:active { text-decoration: none; }
 }
 
 .pure-button {
-  background-color: #343d46;
+  background-color: transparent;
   color: #5d6d7e;
   padding: 2px 6px 3px;
   font-size: 14px;
