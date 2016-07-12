@@ -137,9 +137,10 @@ input[type="text"] {
   padding: 3px;
   padding-right: 60px;
   width: 0px;
-  position: absolute;
-  top: 0;
-  right: 0;
+  position: fixed;
+  top: 50%;
+  right: 50%;
+  transform: translate(-50%, -50%);
   background: none;
   z-index: 3;
   transition: width .4s cubic-bezier(0.000, 0.795, 0.000, 1.000);
