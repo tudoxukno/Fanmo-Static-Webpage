@@ -1,11 +1,11 @@
-@font-face { font-family: Blacksword;
-src: url('BLACKSWORD.OTF'); }
+@font-face { font-family: Monohipster;
+src: url('MONOHIPSTER.OTF'); }
 h1 {
-  font-family: Blacksword;
+  font-family: Monohipster;
   text-align: center;
   color: white;
   margin: 0;
-  font-size: 60px;
+  font-size: 95px;
 }
 
 @font-face { font-family: Roboto;
