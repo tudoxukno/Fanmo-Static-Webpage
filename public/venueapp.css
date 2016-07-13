@@ -21,6 +21,24 @@ h3 {
   color: #343d46;
 }
 /*-----------------------------------------------------------------------------*/
+#background {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover;
+}
+.container h1 {
+    color: white;
+}
+
 body{
   background-image: url("http://www.gannett-cdn.com/-mm-/662cbe47ac484443380c1853ae6db85a9ebc0d33/c=0-292-5616-3459/local/-/media/USATODAY/GenericImages/2013/12/31//1388507273000-Downtown-Miami-Skyline-Night-landscape-LS.jpg");
   background-repeat: no-repeat;
